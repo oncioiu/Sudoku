@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sudoku</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Setari</string>
+    <string name="main_title">Android Sudoku</string>
+    <string name="continue_label">Continuare</string>
+    <string name="new_game_label">Joc nou</string>
+    <string name="about_label">Despre</string>
+    <string name="exit_label">Iesire</string>
+    <string name="about_title">About Android Sudoku</string>
+    <string name="about_text">\
+Jocul de sudoku este format dintr-o grila de 9x9 casute care la randul ei este impartita in sub-grile de 3x3 casute, numite regiuni. 
+
+Altfel spus, jocul sudoku are 9 randuri si 9 coloane. Fiecare rand si fiecare coloana trebuie completata cu cifre de la 1 la 9 fara a fi nici un numar identi pe acelasi rand sau pe aceiasi coloana. De asemenea, numerele de la 1 la 9 nu trebuie sa se repete nici in subgrilele de 3x3 casute.</string>
+    <string name="settings_label">Setari</string>
+    <string name="settings_title">Setari Sudoku</string>
+    <string name="settings_shortcut">s</string>
+    <string name="music">Muzica</string>
+    <string name="music_summary">Fundal muzica</string>
+    <string name="hints_title">Sugestii</string>
+    <string name="hints_summary">Arata sugesti in joc</string>
+    
+    <string name="new_game_title">Dificultate</string>
+    <string name="easy_label">Incepator</string>
+    <string name="medium_label">Mediu</string>
+    <string name="hard_label">Greu</string>
+    
+    
+    
+    <string name="game_title">Joc</string>
+<string name="no_moves_label">Fara mutari</string>
+<string name="keypad_title">Tastatura</string>
+
+</resources>
